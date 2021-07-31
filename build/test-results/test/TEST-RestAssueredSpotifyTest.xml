@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssueredSpotifyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-31T19:07:54" hostname="KALPESH16" time="3.131">
+  <properties/>
+  <testcase name="removeItemFromPlaylist" classname="RestAssueredSpotifyTest" time="3.131"/>
+  <system-out><![CDATA[{
+    "snapshot_id": "NyxjZWNmOTQ3OGZlMDVkMGM3YjBkMjNjYTIzZjcyNjhmMzY3ZjMzZTFj"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
