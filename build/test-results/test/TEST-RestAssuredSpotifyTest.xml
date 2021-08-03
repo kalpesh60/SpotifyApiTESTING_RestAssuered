@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestAssuredSpotifyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-03T14:39:56" hostname="KALPESH16" time="3.918">
+  <properties/>
+  <testcase name="ReorderPlaylistItems" classname="RestAssuredSpotifyTest" time="3.918"/>
+  <system-out><![CDATA[{
+    "snapshot_id": "MjMsYTcxYzNlNjQ0ZGEwNDhmMmYwNDEzMmZlZjQ5NDAwZDRlNzQwOWViNQ=="
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
